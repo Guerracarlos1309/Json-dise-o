@@ -286,6 +286,90 @@
       "direccion": "Palmira",
       "telefono": "04141237890",
       "email": "andrea@gmail.com"
+    },
+    {
+      "id": "4",
+      "titulo": "Trabajo Infantil",
+      "fecha": "2023-08-10",
+      "denunciante": "María Pérez",
+      "nombre": "Daniel Gómez",
+      "cedula": "19876543",
+      "direccion": "San Cristóbal",
+      "telefono": "04149998877",
+      "email": "maria.perez@gmail.com",
+      "motivo": "El menor ha sido obligado a trabajar en la calle en condiciones riesgosas."
+    },
+    {
+      "id": "5",
+      "titulo": "Violencia Doméstica",
+      "fecha": "2023-09-05",
+      "denunciante": "Jorge Ramírez",
+      "nombre": "Luisa Méndez",
+      "cedula": "17654321",
+      "direccion": "Rubio",
+      "telefono": "04145556677",
+      "email": "jorge.ramirez@gmail.com",
+      "motivo": "Se escuchan constantes discusiones y gritos en la vivienda, afectando a los niños."
+    },
+    {
+      "id": "6",
+      "titulo": "Explotación Infantil",
+      "fecha": "2023-10-12",
+      "denunciante": "Patricia López",
+      "nombre": "Sofía Hernández",
+      "cedula": "15432789",
+      "direccion": "La Grita",
+      "telefono": "04141234567",
+      "email": "patricia.lopez@gmail.com",
+      "motivo": "La menor es obligada a mendigar en las calles durante largas horas."
+    },
+    {
+      "id": "7",
+      "titulo": "Abuso Escolar",
+      "fecha": "2023-11-02",
+      "denunciante": "Fernando Ríos",
+      "nombre": "Pedro Suárez",
+      "cedula": "16543278",
+      "direccion": "Táriba",
+      "telefono": "04148889966",
+      "email": "fernando.rios@gmail.com",
+      "motivo": "El menor sufre acoso y agresiones físicas constantes por parte de compañeros de clase."
+    },
+    {
+      "id": "8",
+      "titulo": "Falta de Atención Médica",
+      "fecha": "2023-12-18",
+      "denunciante": "Raúl Castro",
+      "nombre": "Esteban Vargas",
+      "cedula": "18765498",
+      "direccion": "Capacho",
+      "telefono": "04143332211",
+      "email": "raul.castro@gmail.com",
+      "motivo": "El menor padece una enfermedad grave y no recibe la atención médica necesaria."
+    },
+    {
+      "id": "9",
+      "titulo": "Consumo de Sustancias",
+      "fecha": "2024-01-10",
+      "denunciante": "Sonia Gómez",
+      "nombre": "Diego Ramírez",
+      "cedula": "19874325",
+      "direccion": "Ureña",
+      "telefono": "04149991122",
+      "email": "sonia.gomez@gmail.com",
+      "motivo": "Se ha observado al menor consumiendo sustancias ilegales en la vía pública."
+    },
+    {
+      "id": "10",
+      "titulo": "Deserción Escolar",
+      "fecha": "2024-02-05",
+      "denunciante": "Carmen Delgado",
+      "nombre": "Laura Jiménez",
+      "cedula": "20983217",
+      "direccion": "El Piñal",
+      "telefono": "04147775544",
+      "email": "carmen.delgado@gmail.com",
+      "motivo": "La menor ha dejado de asistir a la escuela y sus padres no han tomado medidas al respecto."
     }
   ],
   "reportes": [
@@ -367,17 +451,6 @@
       "funcionario": "2"
     },
     {
-      "id": "ce71",
-      "titulo": "asdsadsda",
-      "descripcion": "asdsdasad",
-      "fecha": "1212-12-12",
-      "lugar": "asdsadasd",
-      "beneficiarios": "Menores 10 años",
-      "estado": "Activo",
-      "tipoPromo": "3",
-      "funcionario": "2"
-    },
-    {
       "id": "ea6b",
       "titulo": "Vacunacion",
       "descripcion": "Vacunacion para los menores de 10 años",
@@ -387,6 +460,39 @@
       "estado": "Activo",
       "tipoPromo": "1",
       "funcionario": "1"
+    },
+    {
+      "id": "5",
+      "titulo": "Apoyo Psicológico Infantil",
+      "descripcion": "Sesiones de terapia y apoyo emocional para niños",
+      "fecha": "2025-05-12",
+      "lugar": "Centro de Atención Psicológica",
+      "beneficiarios": "Niños y adolescentes con necesidad de apoyo emocional",
+      "estado": "Activo",
+      "tipoPromo": "5",
+      "funcionario": "7"
+    },
+    {
+      "id": "4",
+      "titulo": "Atención Médica Gratuita",
+      "descripcion": "Consultas médicas y chequeos generales sin costo",
+      "fecha": "2025-04-20",
+      "lugar": "Centro de Salud Comunitario",
+      "beneficiarios": "Niños y adolescentes hasta 18 años",
+      "estado": "Activo",
+      "tipoPromo": "4",
+      "funcionario": "6"
+    },
+    {
+      "id": "3",
+      "titulo": "Jornadas Educativas",
+      "descripcion": "Talleres de refuerzo escolar y actividades lúdicas",
+      "fecha": "2025-03-05",
+      "lugar": "Escuela Primaria Los Pinos",
+      "beneficiarios": "Niños y adolescentes de 6 a 16 años",
+      "estado": "Activo",
+      "tipoPromo": "1",
+      "funcionario": "3"
     }
   ]
 }
